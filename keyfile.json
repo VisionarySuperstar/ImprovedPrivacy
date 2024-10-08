@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "savvy-nature-438019-j7",
+  "private_key_id": "052cd23bbcd016171a19e6d32cf82bef190ceea3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCXd7vhpqf4qS/z\n5EuaoXQAna+kcmOisXC3sceWdtjyyc6pkwf+708M32tzMbxunDz7v0uEjyDxZceg\n0lNzfLG3NyEZLqyipv5PfojOctdf/pM3mFE5c14qZKD1d3Ixg6Buj+VzToFX06Cr\nWwAsyqP6k7rFAnxT3cJ9rceejeKoWMFLuiI001pmL9hwIJwc3ofx3EQoPuTLJn5v\nWEv7VxizLteyK9mLtbaD4ZLXdpTTJjKKkBLH3ePrXp4SoSi5CPC8tatEsONiH5qy\nppbWdNbafJGM7O4dEOxacRO/9m3XPvdnn+scqjuRAyGGnvOGicM4tXT8C35ANvph\nvEde8RxTAgMBAAECggEADWyRhzyOUy3Ten8iQDsiR9JcjcDhmbq2Lbb2OcdLZQEu\nbWhYOLzxjvIs2LxwtzDmVWgtLjttL60rQH1DjiRgBR1ACWD8mzxyT438W/0Ln44K\nyCOaF0hlRnE9XrlOXUW4LfRXi/JKPllwOkpKEq4xqEn4L0ZldHK0A7rSH/hH5/mK\nvzgfdTQKJUeiUQ2IhfPt3a5pVhtDigssXhHGMp2HDSZslawYdz/pKuNtZyBPHYSS\nP0wdJcXuWaAwRUIhtEN3Nk5H/ppCyCbzAswQR6aImgj/BHYGIvbUlyx04V8UXmbB\ne/WpMCVe5aDKnfOJt2qK8+HMOS39OnVNTNgz5ESZyQKBgQDV62p4nx2t8bjFo+ax\nHdygxWt+cuL2rPdQ0F04ayueNSmzHFtHx+iqisY5At2tC+occKlGjK44nC0CWYai\nr8y2erkoFqDSE+PLp5/Cf6a94+LQLqkJ7BfsF/Ia6gBRBIyMZmhT25NaFZm7WyMG\nrFQKqD9CrF4pgs6Z6ZvHdTxVdwKBgQC1Q1wilaiJ6m7kseBRej/dfo3RElC8cmxs\nfXaPytSfQ8MK7fadSFETbjda1Z+q47S+WrvsR0YcxuQwP92zyGTfbhkWwvNBV+ma\nOTatJ5g97nbrXak40KgKeF4mFB9+0uHn9EC481EwiYtEWLook1OSlSjIPUYeo/9U\nDGaxWAhXBQKBgEUiO9qXscPRZuGYwqli+TaMFt1ay7bk11iqvjXJjOMoUz2rYGSm\nWq8jAkTShEm0nAhs8If4VyW8c19bB4P0RLiEmOo3xemeu/PJTHxTPNQJnfeh3Md0\nIZcPdhL0pP2J9tI5FmZjhA+NA43lOkCh2NdI4Ijvo87Ok25ybQHdBY6pAoGAEdCJ\n+Jgu1UcmGPHmcvuJ1VH/zCF5r9urDkqSYXV0yiZVv/g9OZ4G4dr+M741EA2LEP5H\n4+PpXyCpApj0SBwU1eSzMIp+b9idC9w9pGz0yHlsVJuC6yOOsGC+GA34PnWpYCug\nRM0dGKEb/96chSpdl1VziaKEBrTlfjQtz5YwU6UCgYEAgDmuhSPW1fULLrXjtGm5\nJvTcG2uBUb16+I7r5WU5drI1y26dk2M5VReeKTYXxBJE7e1SUne1P22KlQwsu8Yr\n/c3eIqrCGSrKSncdS9ZbNS8reQZ9pE9mJHm3NvBNqP0jRlCkMP4TLXL2A2oROIqD\nR7gO4/NNEsLu4ryWSUIB3BM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "create@savvy-nature-438019-j7.iam.gserviceaccount.com",
+  "client_id": "110135395821567802022",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/create%40savvy-nature-438019-j7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
